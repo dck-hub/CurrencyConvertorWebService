@@ -9,6 +9,6 @@ Run this to generate the client stub folder in intellij terminal change the jdk 
 
 "C:\Program Files\Java\zulu8.66.0.15-ca-jdk8.0.352-win_x64\bin\wsimport.exe" -keep -d . -p com.sltc.soa.client.stub http://localhost:8888/CurrencyConversionService?wsdl
 
-copy the stub folder that contain ll the classes and files of the web service to the com.sltc.soa.client package in the CurrencyConversionWebServiceClient folder.
+copy the stub folder that contain all the classes and files of the web service to the com.sltc.soa.client package in the CurrencyConversionWebServiceClient folder.
 
-Finally, copy the stub folder to the com.sltc.soa.client package.
+
